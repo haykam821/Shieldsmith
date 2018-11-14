@@ -1,0 +1,11 @@
+{
+	"name": "shieldsmith",
+	"description": "Generate Markdown for shields in your README.",
+	"license": "MIT",
+	"author": "haykam821",
+	"main": "src/index.js",
+	"bin": {
+		"shsm": "src/cli.js",
+		"shieldsmith": "src/cli.js"
+	}
+}
