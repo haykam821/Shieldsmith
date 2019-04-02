@@ -6,5 +6,9 @@
 	"main": "src/index.js",
 	"dependencies": {
 		"parse-github-url": "^1.0.2"
-	}
+	},
+	"keywords": [
+		"shieldsio",
+		"badge"
+	]
 }
