@@ -4,10 +4,6 @@
 	"license": "MIT",
 	"author": "haykam821",
 	"main": "src/index.js",
-	"bin": {
-		"shsm": "src/cli.js",
-		"shieldsmith": "src/cli.js"
-	},
 	"dependencies": {
 		"parse-github-url": "^1.0.2"
 	}
